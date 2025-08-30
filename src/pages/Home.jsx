@@ -1,6 +1,6 @@
 import React from 'react'
 import DestitationIcon from '../components/DestitationIcon'
-import TourCard from '../components/TourCArd'
+import TourCard from '../components/TourCard'
 import ReviewCard from '../components/ReviewCard'
 import BlogCard from '../components/BlogCard'
 
